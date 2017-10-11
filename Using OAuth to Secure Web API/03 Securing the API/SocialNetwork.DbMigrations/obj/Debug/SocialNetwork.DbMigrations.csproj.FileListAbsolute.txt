@@ -1,0 +1,10 @@
+C:\Training Videos\ASP.NET MVC, ASP.NET Web API\API\Pluralsight - Using OAuth to Secure Your ASP.NET API\src\3\SocialNetwork.DbMigrations\bin\Debug\SocialNetwork.DbMigrations.exe.config
+C:\Training Videos\ASP.NET MVC, ASP.NET Web API\API\Pluralsight - Using OAuth to Secure Your ASP.NET API\src\3\SocialNetwork.DbMigrations\bin\Debug\SocialNetwork.DbMigrations.exe
+C:\Training Videos\ASP.NET MVC, ASP.NET Web API\API\Pluralsight - Using OAuth to Secure Your ASP.NET API\src\3\SocialNetwork.DbMigrations\bin\Debug\SocialNetwork.DbMigrations.pdb
+C:\Training Videos\ASP.NET MVC, ASP.NET Web API\API\Pluralsight - Using OAuth to Secure Your ASP.NET API\src\3\SocialNetwork.DbMigrations\bin\Debug\DbUp.dll
+C:\Training Videos\ASP.NET MVC, ASP.NET Web API\API\Pluralsight - Using OAuth to Secure Your ASP.NET API\src\3\SocialNetwork.DbMigrations\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Training Videos\ASP.NET MVC, ASP.NET Web API\API\Pluralsight - Using OAuth to Secure Your ASP.NET API\src\3\SocialNetwork.DbMigrations\bin\Debug\DbUp.pdb
+C:\Training Videos\ASP.NET MVC, ASP.NET Web API\API\Pluralsight - Using OAuth to Secure Your ASP.NET API\src\3\SocialNetwork.DbMigrations\bin\Debug\DbUp.xml
+C:\Training Videos\ASP.NET MVC, ASP.NET Web API\API\Pluralsight - Using OAuth to Secure Your ASP.NET API\src\3\SocialNetwork.DbMigrations\obj\Debug\SocialNetwork.DbMigrations.csprojResolveAssemblyReference.cache
+C:\Training Videos\ASP.NET MVC, ASP.NET Web API\API\Pluralsight - Using OAuth to Secure Your ASP.NET API\src\3\SocialNetwork.DbMigrations\obj\Debug\SocialNetwork.DbMigrations.exe
+C:\Training Videos\ASP.NET MVC, ASP.NET Web API\API\Pluralsight - Using OAuth to Secure Your ASP.NET API\src\3\SocialNetwork.DbMigrations\obj\Debug\SocialNetwork.DbMigrations.pdb

@@ -1,0 +1,1 @@
+C:\Training Videos\ASP.NET MVC, ASP.NET Web API\API\Pluralsight - Using OAuth to Secure Your ASP.NET API\src\3\SocialNetwork.Api\obj\Debug\SocialNetwork.Api.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+Formatting
+Get Method
+Post Method
+Put Method
+Patch Method
+Delete Method
+Multiple Entity Get
+Data Sorting on Get
+Data Filtering on Get
+Data Paging on Get

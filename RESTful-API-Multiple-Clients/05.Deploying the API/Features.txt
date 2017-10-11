@@ -1,0 +1,4 @@
+Deploy DB to Azure
+Deploy API to Azure
+
+Implement CORS

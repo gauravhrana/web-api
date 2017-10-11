@@ -1,0 +1,8 @@
+C:\Training Videos\ASP.NET MVC, ASP.NET Web API\API\Pluralsight - Using OAuth to Secure Your ASP.NET API\src\3\SocialNetwork.Data\bin\Debug\SocialNetwork.Data.dll
+C:\Training Videos\ASP.NET MVC, ASP.NET Web API\API\Pluralsight - Using OAuth to Secure Your ASP.NET API\src\3\SocialNetwork.Data\bin\Debug\SocialNetwork.Data.pdb
+C:\Training Videos\ASP.NET MVC, ASP.NET Web API\API\Pluralsight - Using OAuth to Secure Your ASP.NET API\src\3\SocialNetwork.Data\bin\Debug\Dapper.dll
+C:\Training Videos\ASP.NET MVC, ASP.NET Web API\API\Pluralsight - Using OAuth to Secure Your ASP.NET API\src\3\SocialNetwork.Data\bin\Debug\Dapper.pdb
+C:\Training Videos\ASP.NET MVC, ASP.NET Web API\API\Pluralsight - Using OAuth to Secure Your ASP.NET API\src\3\SocialNetwork.Data\bin\Debug\Dapper.xml
+C:\Training Videos\ASP.NET MVC, ASP.NET Web API\API\Pluralsight - Using OAuth to Secure Your ASP.NET API\src\3\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.csprojResolveAssemblyReference.cache
+C:\Training Videos\ASP.NET MVC, ASP.NET Web API\API\Pluralsight - Using OAuth to Secure Your ASP.NET API\src\3\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.dll
+C:\Training Videos\ASP.NET MVC, ASP.NET Web API\API\Pluralsight - Using OAuth to Secure Your ASP.NET API\src\3\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.pdb

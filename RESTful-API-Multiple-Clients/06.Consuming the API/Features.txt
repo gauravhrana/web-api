@@ -1,0 +1,12 @@
+Consuming/Calling the API
+1 Get Method
+2 Post Method
+3 Edit/Put/Patch Method
+4 Delete method
+5 Get-Sort method
+6 Get-Paging
+7 Get-Multiple Entities, Selective Fields
+8 Partial Data Fetching
+9 Calling Diff Version of API
+10 Get-Filter
+11 Get-Caching
